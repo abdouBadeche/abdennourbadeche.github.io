@@ -1610,7 +1610,7 @@ let WorkComponent = class WorkComponent {
             imgs_path: 'assets/imgs/punchword/',
             background: "background.png",
             imgs: [
-                { name: "https://drive.google.com/file/d/1uunfQcFUBU5dvGK3hTef4tlW1z5KVVWU/view?usp=sharing", type: 1 }
+                { name: "https://drive.google.com/file/d/1uunfQcFUBU5dvGK3hTef4tlW1z5KVVWU", type: 1 }
             ]
         };
         this.npub = {
@@ -1618,7 +1618,7 @@ let WorkComponent = class WorkComponent {
             imgs_path: 'assets/imgs/npub/',
             background: "background.png",
             imgs: [
-                { name: "https://drive.google.com/file/d/1FL2BaVNKuO85BoFQFLgvi82Voim4XrA9/view?usp=sharing", type: 1 }
+                { name: "https://drive.google.com/file/d/1FL2BaVNKuO85BoFQFLgvi82Voim4XrA9", type: 1 }
             ]
         };
         this.selected_work = this.portfolio;
