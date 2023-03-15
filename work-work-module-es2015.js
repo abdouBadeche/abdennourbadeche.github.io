@@ -1618,7 +1618,9 @@ let WorkComponent = class WorkComponent {
             imgs_path: 'assets/imgs/npub/',
             background: "background.png",
             imgs: [
-                { name: "https://drive.google.com/uc?export=download&id=1FL2BaVNKuO85BoFQFLgvi82Voim4XrA9", type: 1 }
+              { name: "https://drive.google.com/uc?export=download&id=1FOxbvy-usYFFU8TRAlz8uyUr71YqPgI3", type: 1 } ,
+              { name: "https://drive.google.com/uc?export=download&id=1FQgY3ntlib13cM6jr-Wet9hipvAgWXHh", type: 1 } ,
+              { name: "https://drive.google.com/uc?export=download&id=1FR9Afv7IEjDjQBcRvfYdrZDmwY5Jn7yl", type: 1 }
             ]
         };
         this.selected_work = this.portfolio;
