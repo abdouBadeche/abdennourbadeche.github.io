@@ -1603,7 +1603,7 @@
                         imgs_path: 'assets/imgs/punchword/',
                         background: "background.png",
                         imgs: [
-                            { name: "assets/imgs/punchword/Punchword.webm", type: 1 }
+                            { name: "assets/imgs/punchword/Punchword.mp4", type: 1 }
                         ]
                     };
                     this.npub = {
