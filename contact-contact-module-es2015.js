@@ -5778,7 +5778,7 @@ let DialogLoadingComponent = class DialogLoadingComponent {
         fd.append("email", this.email.mail);
         fd.append("subject", this.email.subject);
         fd.append("message", this.email.content);
-        this.http.post('https://capa-algerie.com/ws/public/api/contact-us2', fd)
+        this.http.post('https://abdennourbadeche.com/ws/public/api/contact-us', fd)
             .subscribe((response) => {
             console.log(response);
             this.hidden_form = false;

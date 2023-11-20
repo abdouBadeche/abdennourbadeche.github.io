@@ -5976,7 +5976,7 @@ var __extends = (this && this.__extends) || (function () {
                     fd.append("email", this.email.mail);
                     fd.append("subject", this.email.subject);
                     fd.append("message", this.email.content);
-                    this.http.post('https://capa-algerie.com/ws/public/api/contact-us2', fd)
+                    this.http.post('https://abdennourbadeche.com/ws/public/api/contact-us', fd)
                         .subscribe(function (response) {
                         console.log(response);
                         _this.hidden_form = false;
