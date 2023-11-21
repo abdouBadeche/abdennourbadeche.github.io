@@ -1511,7 +1511,7 @@ let WorkComponent = class WorkComponent {
                 { name: "4.png", width: true },
                 { name: "5.jpg", width: false },
                 { name: "6.jpg", width: false },
-                { name: "https://drive.google.com/uc?export=download&id=1mAN_0Xs7VF3mavTl6sa1mjhZQddIlQYb", type: 1 }
+                { name: "assets/imgs/fullhouse/FullHouse.mp4", type: 1 },
             ]
         };
         this.megadist = {
@@ -1523,7 +1523,7 @@ let WorkComponent = class WorkComponent {
                 { name: "2.png", width: false },
                 { name: "3.png", width: true },
                 { name: "4.png", width: true },
-                { name: "assets/imgs/megadist/Megadist.webm", type: 1 }
+                { name: "assets/imgs/megadist/Megadist.mp4", type: 1 }
             ]
         };
         this.cnas = {
@@ -1559,7 +1559,7 @@ let WorkComponent = class WorkComponent {
                 { name: "3.png", width: false },
                 { name: "4.png", width: true },
                 { name: "5.png", width: false },
-                { name: "assets/imgs/capa_dash/CAPA-ALGERIE.webm", type: 1 }
+                { name: "assets/imgs/capa_dash/CAPA-ALGERIE.mp4", type: 1 }
             ]
         };
         this.makepub = {
@@ -1575,7 +1575,8 @@ let WorkComponent = class WorkComponent {
             imgs_path: 'assets/imgs/webdoc/',
             background: "background.png",
             imgs: [
-                { name: "https://drive.google.com/uc?export=download&id=1ldU35gAYQjPFmnuc-SQICsJqI4lXsi5G", type: 1 }
+                { name: "assets/imgs/webdoc/Consultation.mp4", type: 1 }
+                // { name : "https://drive.google.com/uc?export=download&id=1ldU35gAYQjPFmnuc-SQICsJqI4lXsi5G" , type : 1 }
             ]
         };
         this.dpgr = {
@@ -1583,7 +1584,8 @@ let WorkComponent = class WorkComponent {
             imgs_path: 'assets/imgs/dpgr/',
             background: "background.png",
             imgs: [
-                { name: "https://drive.google.com/uc?export=download&id=1KqgItHgzN1KL8v-d6DVi9D-5TQrdeaM3", type: 1 }
+                { name: "assets/imgs/dpgr/ESIDPGR.mp4", type: 1 }
+                // { name : "https://drive.google.com/uc?export=download&id=1KqgItHgzN1KL8v-d6DVi9D-5TQrdeaM3" , type : 1 }
             ]
         };
         this.tchatchet = {
